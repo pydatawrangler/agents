@@ -1,0 +1,13 @@
+---
+title: "Untitled"
+format: html
+---
+
+N8n
+
+Ollama is free.
+
+link to website for course: https://edwarddonner.com/2025/04/21/the-complete-agentic-ai-engineering-course/
+
+here is a link to a notebook on setting up API keys: https://github.com/ed-donner/agents/blob/main/guides/09_ai_apis_and_ollama.ipynb
+
